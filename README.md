@@ -20,6 +20,8 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img alt="" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=quan-ht&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+<img alt="" width="800" src="./profile-3d-contrib/profile-green.svg" />
+<br/>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
