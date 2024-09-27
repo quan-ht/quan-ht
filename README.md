@@ -21,6 +21,13 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img alt="" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=quan-ht&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=quan-ht&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quan-ht&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+
 <img alt="" width="800" src="./profile-3d-contrib/profile-green-animate.svg" />
 <br/>
 
